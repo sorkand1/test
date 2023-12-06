@@ -60,7 +60,6 @@ EOF
 
 colors
 line
-logo
 line
 echo "installing tools...."
 line
